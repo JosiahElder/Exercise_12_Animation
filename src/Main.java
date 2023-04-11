@@ -1,3 +1,5 @@
+// "Exercise 12 - Animation, Ready for Marking"
+
 import javax.swing.JFrame;
 import java.awt.event.MouseAdapter;
 import java.awt.event.MouseEvent;
