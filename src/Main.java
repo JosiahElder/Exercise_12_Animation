@@ -6,6 +6,8 @@ public class Main
 {
     private static int WIDTH = 600;
     private static int HEIGHT = 400;
+    private static int BALL_SIZE = 20;
+    private static int MAX_SPEED = 10;
 
     public static void main(String[] args)
     {
